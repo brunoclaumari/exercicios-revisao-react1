@@ -1,0 +1,13 @@
+/*especificidade do css: só será aplicado o estilo se for filho de elementos da classe "integracao1"*/
+.integracao1 .vermelha{
+    color: red;
+}
+
+.integracao1 .azul{
+    color: #03a;
+}
+
+.integracao1 .branca {
+    background-color: #444;
+    color: #fff;
+}
